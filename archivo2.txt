@@ -1,0 +1,9 @@
+comer
+andabstract protected function 
+(parameters);
+correr
+caminabstract protected function 
+
+j(parameters);
+caminar 
+hacer ejercicio
